@@ -1,20 +1,16 @@
-/* Custom Stylesheet */
-/**
- *
- * Made By Joash Pereira
- * Thanks for MaterializeCSS.com
- */
+.default_color {background-color: #258E51 !important}
 
-.default_color{background-color: #258E51 !important}
-
-.default_color_text{color: #258E51 !important}
+.default_color_text {color: #258E51 !important}
 
 .icon-block {
     padding: 0 15px;
 }
 
-#intro, #work, #team {padding-top: 4rem;}
+#intro, #work {padding-top: 4rem;}
 
+#resume {
+    padding: 0 0;
+}
 #index-banner {
     min-height: 632px;
     max-height: 864px;
@@ -22,7 +18,7 @@
     background-color: #258E51;
 }
 
-#nav_f{
+#nav_f {
     box-shadow: none !important; 
     -webkit-box-shadow:none !important;
 }
@@ -34,7 +30,7 @@
     color:white;
 }
 
-.brand-logo{
+.brand-logo {
     position: absolute;
     color: #fff;
     display: inline-block;

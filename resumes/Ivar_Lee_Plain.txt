@@ -1,0 +1,58 @@
+Ivar Lee
+Web Developer
+Greater Seattle Area - Seattle, WA
+
+ivarr5@gmail.com
+www.ivarlee.com
+https://github.com/ivarmlee11
+https://www.linkedin.com/in/ivar-lee
+
+About Me
+
+I am a web developer in Seattle interested in solving problems and answering questions by leveraging data. I enjoy the process of bringing ideas to life, whether it's a full stack web application or some other creative endeavor. Curiosity drives me to explore and continue to learn. I am at my best when working with a team to solve problems. As a former member of the package operations team at UPS I understand the necessity for collaborative decision making, accuracy, and timeliness.
+
+Technical Skills
+
+Git, JavaScript, HTML, CSS, Node.JS, Express, Ruby, Rails, Agile Development, Test Driven Development, D3, Video Editing
+
+Projects
+
+SquareFall
+A simple endless faller browser-based game
+Technologies used: JavaScript, Canvas, and Firebase
+
+Run Vision
+Full stack web application that allows users to preview runs using Google Maps and share them with other users
+Technologies used: Javascript, Express, Node.js, Google Maps, PostgreSQL, Sequelize
+
+Professional Experience
+
+UPS   Feb 2012 — Sep 2015
+Preload Operations
+
+Package Data Supervisor
+- Acted as a liaison between several teams and communicated business needs
+- Choreographed delivery volume for a team of service providers
+- Provided support to several teams in an environment of continuous changing conditions
+
+UPS Oct 2011 - Feb 2012
+- Preload package handler
+- Safety Committee Chair
+
+Education
+
+General Assembly 2016
+-I am currently enrolled in a 12 week immersive program where I am focused on further improving my skills as a Full Stack Web Developer. I am beyond excited that I am learning the technologies needed to bring my ideas to reality. Being at this convergence of creativity and continuous learning is where I feel at home.
+-Skills: Node.JS, Express, JavaScript, HTML, CSS, Third Party Front End Tools, D3, Ruby, and Ruby on Rails
+
+Code Fellows 2016
+-Web Development Bootcamp
+
+UW Professional and Continuing Education 2014
+-IT Foundations
+
+Western Washington University 2011
+BA Political Science
+
+
+
