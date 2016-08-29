@@ -22,7 +22,7 @@ A simple endless faller browser-based game
 Technologies used: JavaScript, Canvas, and Firebase
 
 Run Vision
-Full stack web application that allows users to preview runs using Google Maps and share them with other users
+Full-stack web application that allows users to preview runs using Google Maps and share them with other users
 Technologies used: Javascript, Express.JS, Node.JS, Google Maps, PostgreSQL, Sequelize
 
 Professional Experience
@@ -55,4 +55,3 @@ UW Professional and Continuing Education 2014
 
 Western Washington University 2011
 - BA Political Science
-
