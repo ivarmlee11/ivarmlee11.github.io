@@ -1,5 +1,5 @@
 Ivar Lee
-Web Developer
+Full-Stack Web Developer
 Greater Seattle Area - Seattle, WA
 
 ivarr5@gmail.com
@@ -9,11 +9,11 @@ https://www.linkedin.com/in/ivar-lee
 
 About Me
 
-I am a Web Developer in Seattle interested in solving problems and answering questions by leveraging data. I enjoy the process of bringing ideas to life, whether it's through a full stack web application or some other creative endeavor. Curiosity drives me to explore and continue to learn. I am at my best when working with a team to solve problems. As a former member of the package operations team at UPS I understand the necessity for collaborative decision making, accuracy, and timeliness.
+I am a Web Developer in Seattle interested in solving problems and answering questions by leveraging data. I enjoy the process of bringing ideas to life, whether it's through a full-stack web application or some other creative endeavor. Curiosity drives me to explore and continue to learn. I am at my best when working with a team to solve problems. As a former member of the package operations team at UPS I understand the necessity for collaborative decision making, accuracy, and timeliness.
 
 Technical Skills
 
-Node.js, Express.js, JavaScript, HTML, CSS, PostgreSQL, Sequelize, Ruby, Ruby on Rails, AngularJS, ReactJS, Mongo, Agile Development, Git
+Node.JS, Express.JS, JavaScript, HTML, CSS, SASS, PostgreSQL, Sequelize, Ruby, Ruby on Rails, AngularJS, ReactJS, MongoDB, Agile Development, Test Driven Development, Git
 
 Projects
 
@@ -23,7 +23,7 @@ Technologies used: JavaScript, Canvas, and Firebase
 
 Run Vision
 Full stack web application that allows users to preview runs using Google Maps and share them with other users
-Technologies used: Javascript, Express.js, Node.js, Google Maps, PostgreSQL, Sequelize
+Technologies used: Javascript, Express.JS, Node.JS, Google Maps, PostgreSQL, Sequelize
 
 Professional Experience
 
@@ -42,17 +42,17 @@ Preload package handler
 Education
 
 General Assembly 2016
+
 I participated in a 12 week immersive program where I studied a range of web development topics. I had the opportunity to work with people from different fields and build awesome things. This course put me closer to reaching my goal of becoming a Web Developer. Since the class recently ended I've been working on my personal projects, sharpening my skills, and seeking opportunities.
--Skills: Node.js, Express.js, JavaScript, HTML, CSS, PostgreSQL, Sequelize, Ruby, Ruby on Rails, AngularJS, ReactJS, Mongo, Agile Development, Git
+
+- Skills: Node.JS, Express.JS, JavaScript, HTML, CSS, SASS, PostgreSQL, Sequelize, Ruby, Ruby on Rails, AngularJS, ReactJS, MongoDB, Agile Development, Test Driven Development, Git
 
 Code Fellows 2016
--Web Development Bootcamp
+- Web Development Bootcamp
 
 UW Professional and Continuing Education 2014
--IT Foundations
+- IT Foundations
 
 Western Washington University 2011
-BA Political Science
-
-
+- BA Political Science
 
