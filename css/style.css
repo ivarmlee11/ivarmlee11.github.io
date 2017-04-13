@@ -2,21 +2,12 @@
     float: right;
 }
 
-.img {
-    width: 10px;
-    margin: 0 auto;
-}
-
-.vert-align { 
-    vertical-align: middle;
- }
-
 .default_color {background-color: #258E51 !important}
 
 .default_color_text {color: #258E51 !important}
 
 .icon-block {
-    padding: 0 15px;
+    padding: 0 150px;
 }
 
 #intro, #work {padding-top: 4rem;}
