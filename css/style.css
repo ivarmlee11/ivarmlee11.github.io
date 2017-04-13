@@ -4,6 +4,7 @@
 
 .img {
     width: 85%;
+    margin: 0 auto;
 }
 
 .default_color {background-color: #258E51 !important}
