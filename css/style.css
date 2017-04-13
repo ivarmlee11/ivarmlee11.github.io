@@ -7,6 +7,10 @@
     margin: 0 auto;
 }
 
+.padding-top { 
+    padding-top: 30px;
+ }
+
 .default_color {background-color: #258E51 !important}
 
 .default_color_text {color: #258E51 !important}
