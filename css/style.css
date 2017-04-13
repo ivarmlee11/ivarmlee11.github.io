@@ -7,8 +7,8 @@
     margin: 0 auto;
 }
 
-.padding-top { 
-    padding-top: 150px;
+.vert-align { 
+    vertical-align: center;
  }
 
 .default_color {background-color: #258E51 !important}
