@@ -2,6 +2,10 @@
     float: right;
 }
 
+.img {
+    padding-right: 2px;
+}
+
 .default_color {background-color: #258E51 !important}
 
 .default_color_text {color: #258E51 !important}
